@@ -1,0 +1,15 @@
+
+
+<script setup>
+import JobListings from "@/components/JobListings.vue";
+</script>
+
+
+
+<template>
+
+<JobListings
+  :showbutton="false"
+  />
+
+</template>
